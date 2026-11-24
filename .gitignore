@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+.env
+.env.*
+!.env.example
+*.log
+# Postman local settings
+.postman/
+postman/
